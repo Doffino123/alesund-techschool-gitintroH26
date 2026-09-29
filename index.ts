@@ -1,7 +1,7 @@
 /**
  * Function that greets a person
  * @param firstname First name
- * @param lastname Last name
+ * @param lastname Last
  */
 
 export const greeting = (firstname: string, lastname: string) => {
